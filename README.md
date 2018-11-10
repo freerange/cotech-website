@@ -1,4 +1,4 @@
-__This repo is deprecated: [The idea of moving to a static website was proposed and rejected in Loomio](https://www.loomio.org/d/FnHRkxCO)__
+__This repo has moved to [https://git.coop/cotech/website](https://git.coop/cotech/website)
 
 # CoTech Website
 
